@@ -7,5 +7,6 @@ Algorithm to check if a given string is a palindrome
 ## To run this code
 
 ```
-tsc -w index.ts
+tsc index.ts
+node index.js
 ```
